@@ -1,0 +1,54 @@
+# Aryan Maurya — Portfolio
+
+> AI builder. BCA (Hons.) in AI & Data Science, K.R. Mangalam University. Looking for an AI/ML or GenAI internship.
+
+Portfolio: https://aryanmaurya01.github.io
+Email: aryanmauryauk6@gmail.com
+LinkedIn: https://www.linkedin.com/in/-aryanmaurya/
+GitHub: https://github.com/HostileCoder006
+
+## About
+
+BCA student specialising in AI and Data Science. Builds complete applications around machine learning and LLMs — from data pipelines and backends to usable interfaces. All projects are open-sourced on GitHub.
+
+## Projects
+
+### Interview Copilot
+AI interview practice app with text and camera/voice modes.
+- AI interviewer covering DSA, system design, OOP and behavioural questions
+- Voice pipeline: browser audio capture → Whisper transcription → DeepSeek evaluation (correctness, communication, confidence, optimisation, missing points)
+- Session history, score-trend analytics, local fallback evaluator
+Tech: TypeScript, React 19, TanStack Start, Tailwind CSS, Whisper, DeepSeek (OpenRouter)
+Repo: https://github.com/HostileCoder006/ai-interview-copilot
+
+### QuantTrader AI
+Stock analysis and decision-support platform with NIFTY 50 paper trading.
+- Deterministic signal engine (RSI, MACD, VWAP, EMA, ATR); LLM explains signals only
+- Backtester + Strategy Lab: Sharpe, Sortino, max drawdown, win rate; next-bar execution
+- Market-regime engine, similar-setup search, multi-analyst AI investment committee
+Tech: Python, Flask, SQLite, Pandas, NumPy, yfinance, React, TypeScript, DeepSeek V3.2
+
+### Edge-Based Predictive Maintenance for CNC Machines
+Anomaly detection and health scoring from multi-sensor machine data.
+- Vibration, temperature, pressure and sound data → anomaly detection + health score
+- Real-time Streamlit dashboard for monitoring and efficiency insights
+Tech: Python, Pandas, Streamlit, Machine Learning
+
+## Skills
+
+Languages: Python, JavaScript (Basic: TypeScript, SQL, Java, C)
+Web & Frameworks: HTML, CSS, Vite, Streamlit (Basic: React, Flask, Tailwind CSS)
+Data & AI: Pandas, NumPy, LLM APIs (OpenRouter, DeepSeek, Whisper), anomaly detection, backtesting
+Analytics: Power BI, MS Excel, data cleaning, visualisation
+Databases & Tools: SQLite, MySQL, REST APIs, Git, GitHub
+
+## Education
+
+B.C.A. (Hons.) in AI & Data Science — K.R. Mangalam University, 2024–2027 (pursuing)
+Higher Secondary (12th) — Shalom Hills International School
+
+## Certifications
+
+Python for Data Science — Future Skill Prime
+Python — IBM
+Salesforce — Future Skill Prime
