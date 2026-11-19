@@ -1,6 +1,6 @@
 # Aryan Maurya — Portfolio
 
-> AI builder. BCA (Hons.) in AI & Data Science, K.R. Mangalam University. Looking for an AI/ML or GenAI internship.
+> AI builder. BCA in AI & Data Science, K.R. Mangalam University. Looking for an AI/ML or GenAI internship.
 
 Portfolio: https://aryanmaurya01.github.io
 Email: aryanmauryauk6@gmail.com
@@ -44,7 +44,7 @@ Databases & Tools: SQLite, MySQL, REST APIs, Git, GitHub
 
 ## Education
 
-B.C.A. (Hons.) in AI & Data Science — K.R. Mangalam University, 2024–2027 (pursuing)
+B.C.A. in AI & Data Science — K.R. Mangalam University, 2024–2027 (pursuing)
 Higher Secondary (12th) — Shalom Hills International School
 
 ## Certifications
