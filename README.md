@@ -1,6 +1,6 @@
 # Aryan Maurya
 
-**BCA (Hons.) in AI & Data Science, K.R. Mangalam University**
+**BCA in AI & Data Science, K.R. Mangalam University**
 
 AI builder making practical machine learning and LLM projects. Looking for an AI/ML or GenAI internship.
 
@@ -66,7 +66,7 @@ All of my projects are open-sourced on GitHub. I'm looking for an internship whe
 
 ## Education
 
-- **B.C.A. (Hons.) in AI & Data Science** — K.R. Mangalam University, 2024 – 2027 *(pursuing)*
+- **B.C.A. in AI & Data Science** — K.R. Mangalam University, 2024 – 2027 *(pursuing)*
 - **Higher Secondary (12th)** — Shalom Hills International School
 
 ## Certifications
